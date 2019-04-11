@@ -1,0 +1,1 @@
+Usage fo git pull & fetch
